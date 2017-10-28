@@ -15,6 +15,7 @@ namespace GX.Common
         {
             get;
         }
+
         void CloseForm();
         void HideInfoTipForm();
         void ShowInfo(string infoText, PopupMessageType infoMessageType);

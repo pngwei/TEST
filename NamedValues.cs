@@ -96,7 +96,7 @@ namespace GX.Common
         public const string ClientUpdateFileName = "ClientUpdate.zip";     //客户端用压缩升级包名
 
 
-        
+   
 
         public const int AbortLabel = 0;                            //显示位置
         public const int SystemInfoLabel = 1;                       //显示位置

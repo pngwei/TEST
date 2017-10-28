@@ -90,10 +90,6 @@ namespace GX.Common
         //public const int BSByOtherTaskId = 1000;                    //被其他系统闭锁的起始任务号
         public const int HintProperty = 0x10;                       //缺省提示型信息属性
         //public const int LinkageOperationProperty = 0x0FFF;         //被联动操作的属性
-        public const int MaxTermTemplateCount = 4;                  //系统最大操作术语模板数量
-        public const string HintTextFile = "HintText.TXT";          //供选择用的提示信息
-        public const string ServerUpateFilePath = "ServerUpdate";   //服务器升级文件存放路径
-        public const int GzpTaskLogStructureId = 679;            //工作票索引表结构编号
 
         public const string WFServerDataArchiveTableName = "WFServerDataArchive"; //数据备份时用于保存服务文件的表名
 
